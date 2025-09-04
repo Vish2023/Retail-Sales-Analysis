@@ -17,7 +17,7 @@ A data analytics project analyzing retail sales data to uncover insights into pr
 - `Retail Sales Analysis Dashboard.twb`: Tableau workbook containing the dashboard.
 
 ## Dashboard
-View the dashboard on [Tableau Public]([insert-tableau-public-url-here](https://public.tableau.com/app/profile/vishal.d.silva/viz/RetailSalesAnalysisDashboard_17569985190000/RetailSalesAnalysisDashboard)).
+View the dashboard on [Tableau Public]([insert-tableau-public-url-here](https://public.tableau.com/app/profile/vishal.d.silva/viz/RetailSalesAnalysisDashboard_17569985190000/RetailSalesAnalysisDashboard).
 
 ## Visualizations
 - **Bar Chart**: Sales by Product Line, showing top-performing product categories.

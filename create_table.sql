@@ -1,0 +1,28 @@
+USE Retail_Sales_Analysis;
+CREATE TABLE sales_data (
+    OrderNumber VARCHAR(20),
+    QuantityOrdered INT,
+    PriceEach DECIMAL(10,2),
+    OrderLineNumber INT,
+    Sales DECIMAL(10,2),
+    OrderDate DATETIME,
+    Status VARCHAR(20),
+    QtrID INT,
+    MonthID INT,
+    YearID INT,
+    ProductLine VARCHAR(50),
+    MSRP INT,
+    ProductCode VARCHAR(20),
+    CustomerName VARCHAR(100),
+    Phone VARCHAR(20),
+    AddressLine1 VARCHAR(100),
+    AddressLine2 VARCHAR(100),
+    City VARCHAR(50),
+    State VARCHAR(50),
+    PostalCode VARCHAR(20),
+    Country VARCHAR(50),
+    Territory VARCHAR(50),
+    ContactLastName VARCHAR(50),
+    ContactFirstName VARCHAR(50),
+    DealSize VARCHAR(20)
+);
